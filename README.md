@@ -1,7 +1,7 @@
  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
 <h1 align="center">Hi 👋, I'm Kavidu M Kulathunga</h1>
 <h3 align="center">A passionate Website developer & UI/UX Developer from Sri Lanka</h3>
-<img aligh="right" width="400" src="https://komarev.com/ghpvc/?username=yakshith027&label=Profile%20views&color=0e75b6&style=flat" alt="yakshith027" />
+<p aligh="right"><img src="https://komarev.com/ghpvc/?username=yakshith027&label=Profile%20views&color=0e75b6&style=flat" alt="yakshith027" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavidumalshan99&label=Profile%20views&color=0e75b6&style=flat" alt="kavidumalshan99" /> </p>
