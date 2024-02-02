@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=react,html,php,js,css,scss,mongodb,mysql,nextjs,nodejs,tailwind,git,c,cpp,discord,express,figma,github,java,kotlin,mongodb,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,html,php,js,css,scss,mongodb,mysql,nextjs,nodejs,tailwind,git,c,cpp,discord,express,figma,github,java,kotlin,vscode&perline=14" />
   </a>
 </p>
 <hr>
