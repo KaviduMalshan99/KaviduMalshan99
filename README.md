@@ -48,7 +48,6 @@
 <p align="center"><b>AI / Data</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <p align="center">NumPy • Pandas • Scikit-learn • LLM APIs</p>
 </p>
 
 <p align="center"><b>Frontend (Support)</b></p>
@@ -59,6 +58,8 @@
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
 <p align="center">
   
   <a style="margin-right: 45px;" href="https://linkedin.com/in/kavidumkulathunga" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavidumkulathunga" height="40" width="40" /></a>
