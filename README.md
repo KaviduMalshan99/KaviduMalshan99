@@ -26,18 +26,6 @@
 </br>
 
 
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<p align="center">
-  <a  href="https://twitter.com/kavidumalshan99" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="kavidumalshan99" height="40" width="40"  /></a>
-  <a style="margin-right: 45px;" href="https://linkedin.com/in/kavidumkulathunga" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavidumkulathunga" height="40" width="40" /></a>
-  <a style="margin-right: 45px;" href="https://fb.com/kavidu malshan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavidu malshan" height="40" width="40" margin-left="25" /></a>
-  <a style="margin-right: 45px;" href="https://instagram.com/kavidu_malshan_km" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="kavidu_malshan_km" height="40" width="40" /></a>
-  <a style="margin-right: 45px;" href="https://www.behance.net/kavidumkulathunga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kavidumkulathunga" height="40" width="40" /></a>
-</p>
-<hr>
-
-
 <hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
@@ -66,6 +54,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
+
+<hr>
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+  <a  href="https://twitter.com/kavidumalshan99" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="kavidumalshan99" height="40" width="40"  /></a>
+  <a style="margin-right: 45px;" href="https://linkedin.com/in/kavidumkulathunga" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavidumkulathunga" height="40" width="40" /></a>
+  <a style="margin-right: 45px;" href="https://fb.com/kavidu malshan" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavidu malshan" height="40" width="40" margin-left="25" /></a>
+  <a style="margin-right: 45px;" href="https://instagram.com/kavidu_malshan_km" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="kavidu_malshan_km" height="40" width="40" /></a>
+  <a style="margin-right: 45px;" href="https://www.behance.net/kavidumkulathunga" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kavidumkulathunga" height="40" width="40" /></a>
+</p>
+
 
 <hr>
 
