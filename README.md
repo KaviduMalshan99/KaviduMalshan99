@@ -27,11 +27,6 @@
 
 
 
-<hr> 
-<h3 align="center">...My Statistics...</h3>
-...
-</table>
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
   <a  href="https://twitter.com/kavidumalshan99" target="blank"><img  src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="kavidumalshan99" height="40" width="40"  /></a>
@@ -43,14 +38,37 @@
 <hr>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools: </h3>
-
-<p align="center">
-  <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=react,html,php,js,css,scss,mongodb,mysql,nextjs,nodejs,tailwind,git,c,cpp,discord,express,figma,github,java,kotlin,vscode&perline=14" />
-  </a>
-</p>
 <hr>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,express,nestjs" />
+</p>
+
+<p align="center"><b>Databases & Caching</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+</p>
+
+<p align="center"><b>Cloud & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure,github,git" />
+</p>
+
+<p align="center"><b>AI / Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center"><b>Frontend (Support)</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+<hr>
+
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Support: </h3>
