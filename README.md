@@ -74,7 +74,7 @@ I’ve worked across the full lifecycle — from planning and architecture to de
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   
-  <a href="https://fb.com/kavidu malshan" target="_blank">
+  <a href="https://facebook.com/kavidumalshan" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
   
