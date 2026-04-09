@@ -1,10 +1,10 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
 <h1 align="center">Hi 👋, I'm Kavidu M Kulathunga</h1>
-<h3 align="center">
+<h4 align="center">
 I’m a backend engineer with 4+ years of experience building and managing real-world systems.
-I’ve worked across the full lifecycle — from planning and architecture to deployment, CI/CD, and production support.</h3>
+I’ve worked across the full lifecycle — from planning and architecture to deployment, CI/CD, and production support.</h4>
 
-<h3 align="center">Started with Laravel, now focusing on Python, FastAPI, and AI-powered backend systems.</h3>
+<h4 align="center">Started with Laravel, now focusing on Python, FastAPI, and AI-powered backend systems.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavidumalshan99&label=Profile%20views&color=0e75b6&style=flat" alt="kavidumalshan99" /> </p>
 
