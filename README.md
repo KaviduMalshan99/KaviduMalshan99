@@ -14,7 +14,9 @@ I’ve worked across the full lifecycle — from planning and architecture to de
 
 
 
--  💻 Backend Engineer focused on scalable systems & APIs
+-  💻 Built and deployed multiple production systems using Laravel & Python
+  
+-  ⚙️ Experienced in full lifecycle: planning → development → deployment → CI/CD
   
 -  ☁️ Building microservices & cloud-native applications
 
@@ -37,7 +39,7 @@ I’ve worked across the full lifecycle — from planning and architecture to de
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,ts,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs,ts,express,nestjs" />
 </p>
 
 <p align="center"><b>Databases & Caching</b></p>
@@ -52,8 +54,9 @@ I’ve worked across the full lifecycle — from planning and architecture to de
 
 <p align="center"><b>AI / Data</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
+
 
 <p align="center"><b>Frontend (Support)</b></p>
 <p align="center">
