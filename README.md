@@ -49,7 +49,7 @@ I’ve worked across the full lifecycle — from planning and architecture to de
 
 <p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,github,git" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,github,git" />
 </p>
 
 <p align="center"><b>AI / Data</b></p>
