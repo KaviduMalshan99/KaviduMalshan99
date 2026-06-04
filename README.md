@@ -1,4 +1,4 @@
-<img src="./image.png"" />
+<img src="https://github.com/KaviduMalshan99/KaviduMalshan99/blob/main/image" />
 <h1 align="center">Hi 👋, I'm Kavidu M Kulathunga</h1>
 <h4 align="center">
 I’m a Backend & AI Engineer with 3+ years of experience building production-ready backend systems and AI-integrated applications.
