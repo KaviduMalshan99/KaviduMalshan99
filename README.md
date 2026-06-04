@@ -1,4 +1,4 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
+<img src="https://photos.app.goo.gl/Cnffoib3hjBtHXPL6" />
 <h1 align="center">Hi 👋, I'm Kavidu M Kulathunga</h1>
 <h4 align="center">
 I’m a Backend & AI Engineer with 3+ years of experience building production-ready backend systems and AI-integrated applications.
