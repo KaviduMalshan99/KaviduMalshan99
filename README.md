@@ -1,7 +1,7 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
 <h1 align="center">Hi 👋, I'm Kavidu M Kulathunga</h1>
 <h4 align="center">
-I’m a backend engineer with 4+ years of experience building and managing real-world systems.
+I’m a Backend & AI Engineer with 3+ years of experience building production-ready backend systems and AI-integrated applications.
 I’ve worked across the full lifecycle — from planning and architecture to deployment, CI/CD, and production support.</h4>
 
 <h4 align="center">Started with Laravel, now focusing on Python, FastAPI, and AI-powered backend systems.</h4>
@@ -16,19 +16,22 @@ I’ve worked across the full lifecycle — from planning and architecture to de
 
 -  💻 Built and deployed multiple production systems using Laravel & Python
   
--  ⚙️ Experienced in full lifecycle: planning → development → deployment → CI/CD
-  
 -  ☁️ Building microservices & cloud-native applications
 
--  🤖 Exploring AI-powered backend systems
+-  🤖 Exploring AI-powered systems
 
--  🎓 Software Engineering Graduate – SLIIT 
+-  ⚙️ Experienced in full lifecycle: planning → development → deployment → CI/CD
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kavidumkulathunga/]
+-  🎓 Software Engineering Graduate – **SLIIT**
+
+- 👨‍💻 All of my projects are available at (https://kavidukmportfolio.netlify.app/)]
+
+- 💼 Open to **Backend Engineer** / **AI Engineer** roles
 
 - 📫 How to reach me **kavidumalshankulathunga@gmail.com**
   
 - ⚡ Fun fact **Call me as Kavidu**
+
 
 </br>
 
@@ -47,16 +50,15 @@ I’ve worked across the full lifecycle — from planning and architecture to de
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
 </p>
 
+<p align="center"><b>AI / Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,kubernetes" />
+</p>
+
 <p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,azure,aws,github,git" />
 </p>
-
-<p align="center"><b>AI / Data</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
 
 <p align="center"><b>Frontend (Support)</b></p>
 <p align="center">
